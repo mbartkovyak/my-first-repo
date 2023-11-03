@@ -1,1 +1,1 @@
-print("Windows 11")
+print("Windows 11.02")
