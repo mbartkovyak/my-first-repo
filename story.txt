@@ -1,3 +1,4 @@
 Added story.txt file
 
-I change story.txt file for feature1
+
+Manually resolving the conflict here
